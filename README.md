@@ -1,11 +1,9 @@
 ### Hi, I'm Olivia 👋
 
-I build AI products and help people become more confident with technology.
-I have an M.S. in Data Science and hands-on experience taking LLM agents from idea to production for enterprise teams.
+I'm an AI builder with an M.S. in Data Science and hands-on experience taking LLM agents from idea to production for enterprise teams.
 I care about why a system is shaped the way it is: what the user needs, where the data lives, and what can go wrong.
 
 - 🚀 Building AI apps, from the problem to the architecture
-- 📚 Making tech understandable: tools and explainers for learning about AI
 - 🔬 Published research on how developers work with AI tools
 
 ---
@@ -32,7 +30,7 @@ A free study site for the Claude Certified Architect – Foundations exam.
 #### What's next
 - More AI apps that solve real problems
 - Videos explaining AI concepts and how I build things *(coming soon)*
-- Research and writing on AI and tech literacy
+- Research and writing on AI
 
 #### Connect
 [LinkedIn](https://www.linkedin.com/in/yaxuan-olivia-wang/) · Follow me here to see new projects as they ship.
