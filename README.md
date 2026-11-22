@@ -32,5 +32,5 @@ A free study site for the Claude Certified Architect – Foundations exam.
 - Videos explaining AI concepts and how I build things *(coming soon)*
 - Research and writing on AI
 
-#### Connect
-[LinkedIn](https://www.linkedin.com/in/yaxuan-olivia-wang/) · Follow me here to see new projects as they ship.
+#### Let's build together
+I'm always happy to collaborate on AI products, research, or new ideas. If something here interests you, reach out on [LinkedIn](https://www.linkedin.com/in/yaxuan-olivia-wang/), or follow me here to see new projects as they ship.
