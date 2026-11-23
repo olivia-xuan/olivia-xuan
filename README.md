@@ -3,8 +3,8 @@
 I'm an AI builder with an M.S. in Data Science and hands-on experience taking LLM agents from idea to production for enterprise teams.
 I care about why a system is shaped the way it is: what the user needs, where the data lives, and what can go wrong.
 
-- 🚀 Building AI apps, from the problem to the architecture
-- 🔬 Published research on how developers work with AI tools
+-  Building AI apps, from the problem to the architecture
+-  Published research on how developers work with AI tools
 
 ---
 
